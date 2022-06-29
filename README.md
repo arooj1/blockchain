@@ -26,3 +26,4 @@ validity of the ledger can be checked by comparing the hash of the previous-tran
 
 #### FRONT-END DISPLAY
 
+![FrontEnd](screen_shot.PNG)

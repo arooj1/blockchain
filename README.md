@@ -24,6 +24,11 @@ difficulty level can be changed to make a valid transaction by the miner.
 validity of the ledger can be checked by comparing the hash of the previous-transaction (saved as prev-hash value) with the actual hash of the previous transaction
 
 
+#### Code Execution
+
+- `clone` repository on your system
+- run `streamlit run pychain.py` command in the commandline. 
+
 #### FRONT-END DISPLAY
 
 ![FrontEnd](screen_shot.PNG)
